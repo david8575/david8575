@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david8575&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Park Sehun's GitHub stats](https://github-readme-stats.vercel.app/api?username={david8575}&show_icons=true&theme=radical)
+![Park Sehun's GitHub stats](https://github-readme-stats.vercel.app/api?username={davidpark8575@gmail.com}&show_icons=true&theme=radical)
