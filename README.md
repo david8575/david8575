@@ -1,5 +1,4 @@
 ## Park Sehun 🇰🇷
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Park%20Sehun's%20Github&fontSize=90)
 
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
