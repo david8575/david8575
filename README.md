@@ -28,4 +28,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=david8575)](https://solved.ac/david8575)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david8575&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david8575)](https://github.com/david8575/github-readme-stats)
