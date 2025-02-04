@@ -1,7 +1,7 @@
-## Park Sehun 🇰🇷
+# Park Sehun 🇰🇷
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Park%20Sehun's%20Github&fontSize=90)
 
-#SKILLS
+# Skills
 ## Langauages
 ### BE
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,8 +26,7 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=david8575)](https://solved.ac/david8575)
-
+# MyStatus
 ![Park Sehun's GitHub stats](https://github-readme-stats.vercel.app/api?username=david8575&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david8575&hide_progress=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=david8575)](https://solved.ac/david8575)
