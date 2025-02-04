@@ -1,6 +1,4 @@
-# Park Sehun 🇰🇷
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Park%20Sehun's%20Github&fontSize=50)
-
 # Skills
 ## Langauages
 ### BE
@@ -25,7 +23,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 # MyStatus
 ![Park Sehun's GitHub stats](https://github-readme-stats.vercel.app/api?username=david8575&show_icons=true&theme=dark)
 
