@@ -20,5 +20,5 @@
 # 2. MyStatus
 ![](./profile-3d-contrib/profile-gitblock.svg)
 # 3. MyProjects
-## 3.1. [Sejong Univ. 소프프트웨어 설계 기초 SW_CTR] (https://github.com/david8575/SW-CTR)
-## 3.2. [Sejong Univ. Capstone Design 과시리] (https://github.com/david8575/Capstone-Design)
+## 3.1. [Sejong Univ. 소프프트웨어 설계 기초 SW_CTR](https://github.com/david8575/SW-CTR)
+## 3.2. [Sejong Univ. Capstone Design 과시리](https://github.com/david8575/Capstone-Design)
