@@ -1,4 +1,4 @@
-# Park Sehun Github [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+# Park Sehun Github [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=david8575)](https://solved.ac/david8575)
 # 1. My Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
