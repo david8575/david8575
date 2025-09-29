@@ -18,7 +18,7 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 2. My Status
-![](./profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 # 3. My Projects
 - Sejong Univ. 소프프트웨어 설계 기초 SW_CTR [리포지토리 URL](https://github.com/david8575/SW-CTR)
 - Sejong Univ. Capstone Design 과시리 [리포지토리 URL](https://github.com/david8575/Capstone-Design)
