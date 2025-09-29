@@ -19,3 +19,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 2. MyStatus
 ![](./profile-3d-contrib/profile-gitblock.svg)
+#3. MyProjects
+## 3.1. Sejong Univ. 소프프트웨어 설계 기초 SW_CTR
+## 3.2. Sejong Univ. Capstone Design 과시리
