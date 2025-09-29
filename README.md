@@ -19,7 +19,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 2. My Status
 ![](./profile-3d-contrib/profile-night-green.svg)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david8575](https://solved.ac/david8575/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=david8575](https://solved.ac/david8575/)]
 # 3. My Projects
 - Sejong Univ. 소프프트웨어 설계 기초 SW_CTR [리포지토리 URL](https://github.com/david8575/SW-CTR)
 - Sejong Univ. Capstone Design 과시리 [리포지토리 URL](https://github.com/david8575/Capstone-Design)
